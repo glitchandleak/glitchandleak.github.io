@@ -1,2 +1,4 @@
-# gijinka.github.io
-Gijinka project's web page
+# igapo.github.io
+
+ This is the webpage for the project Igapo.
+
